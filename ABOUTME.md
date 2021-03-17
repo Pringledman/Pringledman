@@ -7,3 +7,8 @@ Current projects:
 
 
 OS: Void Linux + DWM
+
+Languages:
+  - Rust
+  - Python
+  - C
