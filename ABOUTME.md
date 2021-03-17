@@ -1,5 +1,9 @@
-My name is Spencer Place, I do not currently upload many projects, but am working to contributing more.
+My name is Spencer Place, I do not currently upload many projects, but am working to contribute more in the future.
 
-- Void Linux 
+Current projects:
+  - School
+  - personal website: papatapa.xyz
+  - project euler sometimes
 
-Currently coding a personal website (not online until mostly complete): papatapa.xyz
+
+OS: Void Linux + DWM
