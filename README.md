@@ -6,7 +6,7 @@ Current projects:
   - project euler sometimes
 
 
-OS: Void Linux + DWM
+OS: Void Linux + dwm
 
 Languages:
   - Rust
